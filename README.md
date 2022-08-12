@@ -2,6 +2,12 @@
 
 ![.github/workflows/ci.yml](https://github.com/dorzey/vscode-sqlfluff/workflows/.github/workflows/ci.yml/badge.svg)
 
+## Notice
+
+**Deprecated:** This project has been deprecated in favor of the original [sqlfluff](https://marketplace.visualstudio.com/items?itemName=dorzey.vscode-sqlfluff) extension.
+
+The changes from this project have been merged into the original extension.
+
 A linter and auto-formatter for [SQLFluff](https://github.com/alanmcruickshank/sqlfluff), a popular linting tool for SQL and dbt.
 
 ![linter in action](./media/linter_in_action.gif)
